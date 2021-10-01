@@ -1,7 +1,7 @@
 {
   "name": "bare-react",
   "version": "1.0.0",
-  "description": "Testing out tooling.",
+  "description": "Testing out snowpack and react-query.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,6 +17,7 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-query": "^3.24.5",
     "react-router-dom": "^5.2.0",
     "styled-components": "^5.3.0"
   },
